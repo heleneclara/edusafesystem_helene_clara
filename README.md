@@ -7,9 +7,9 @@ Nous avons crée un système de detection de température qui va envoyer une not
 Matériel utilisé : 
 - Carte UCA
 - Arduino pour le code
-- Carton + légo pour la maquette
+- Carton + Lego pour la maquette
 
-Perspéctive possible : 
+Perspective possible : 
 
 1/ Buzzer (ce qu'on avait prévu de base mais qui n'a malheureusement pas fonctionné) qui s'activerai avant l'envoie du message. 
 
