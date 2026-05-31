@@ -10,7 +10,9 @@ Matériel utilisé :
 - carton + légo pour la maquette
 
 perspéctive possible : 
+
 1/ buzzer (ce qu'on avait prévu de base mais qui n'a malheureusement pas fonctionné) qui s'activerai avant l'envoie du message. 
+
 2/ detecteur de fumée à la place d'un détecteur de température 
 
 
